@@ -4,7 +4,7 @@ Users can use these VIs to load previously saved control values.
 
 ## How to load configuration
 
-![](C:\Users\show6\OneDrive%20-%20TC\LabVIEW%20Dev%202020%2064bit\LV-control-load-save\images\load.png)
+![](./images/load.png)
 
 Simply wire the `current VI's Path` to the input of the loader. If the configuration file is not existed, this VI create one. 
 
@@ -14,7 +14,7 @@ Note that the *load* operation is typically run in the early stage of a program.
 
 ## How to save configuration
 
-![](C:\Users\show6\OneDrive%20-%20TC\LabVIEW%20Dev%202020%2064bit\LV-control-load-save\images\save.png)
+![](./images/save.png)
 
 You do not have to wire anything once the *loader* run. The internal FGV will take over all the stuffs.
 
