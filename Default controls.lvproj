@@ -1,6 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="20008000">
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -15,8 +16,8 @@
 			<Item Name="Default controls - save controls values.vi" Type="VI" URL="../Default contorls manipulator (FGV)/Default controls - save controls values.vi"/>
 		</Item>
 		<Item Name="Default contorls manipulator.lvclass" Type="LVClass" URL="../Default contorls manipulator/Default contorls manipulator.lvclass"/>
-		<Item Name="Example of default load and save by the assigned ini path.vi" Type="VI" URL="../Example of default load and save by the assigned ini path.vi"/>
 		<Item Name="Example of default load and save.vi" Type="VI" URL="../Example of default load and save.vi"/>
+		<Item Name="Example of default load and save by the assigned ini path.vi" Type="VI" URL="../Example of default load and save by the assigned ini path.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
