@@ -15,6 +15,9 @@
 			<Item Name="Default controls - load control values.vi" Type="VI" URL="../Default contorls manipulator (FGV)/Default controls - load control values.vi"/>
 			<Item Name="Default controls - save controls values.vi" Type="VI" URL="../Default contorls manipulator (FGV)/Default controls - save controls values.vi"/>
 		</Item>
+		<Item Name="Support" Type="Folder">
+			<Item Name="Save-Load-Defaults.lvlib" Type="Library" URL="../Save-Load-Defaults.lvlib/Save-Load-Defaults.lvlib"/>
+		</Item>
 		<Item Name="Default contorls manipulator.lvclass" Type="LVClass" URL="../Default contorls manipulator/Default contorls manipulator.lvclass"/>
 		<Item Name="Example of default load and save.vi" Type="VI" URL="../Example of default load and save.vi"/>
 		<Item Name="Example of default load and save by the assigned ini path.vi" Type="VI" URL="../Example of default load and save by the assigned ini path.vi"/>
@@ -61,8 +64,6 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="Defaults Operator.vi" Type="VI" URL="../Default contorls manipulator (FGV)/Save-Load-Defaults.lvlib/Defaults Operator.vi"/>
-			<Item Name="Save-Load-Defaults.lvlib" Type="Library" URL="../Save-Load-Defaults.lvlib/Save-Load-Defaults.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
